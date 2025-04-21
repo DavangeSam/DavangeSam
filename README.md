@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋🏻 I'm Samruddhi Davange 👩🏻‍💻 </h1>
 <h3 align="center">A passionate Software Development Engineer in New York, United States</h3>
 
-- 💡 I’m currently working on **Medicine Tracker**
+- 💡 I’m currently working on **DoseBuddy**
 
 - 🖥️ All of my projects are available at [https://github.com/DavangeSam](https://github.com/DavangeSam)
 
